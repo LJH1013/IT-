@@ -35,7 +35,6 @@ public class MemberExam extends Member{ //MemberExam 클래스는 Member 클래�
 		super.age = age;
 		
 		//System.out.println(super.idx + "\t" + super.name + "\t" + super.age);
-		
 	}	
 	
 }
