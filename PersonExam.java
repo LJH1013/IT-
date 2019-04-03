@@ -104,7 +104,6 @@ public class PersonExam {
 			System.out.print(person[i].Rank + "\t");
 			person[i].printIndex2();
 			System.out.print("\n");
-			
 		}
 		
 	}
