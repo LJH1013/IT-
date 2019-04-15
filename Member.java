@@ -1,5 +1,5 @@
 
-public abstract class Member {
+public abstract class Member { //상속클래스로 선언
 	int idx;
 	String name;
 	int age;
