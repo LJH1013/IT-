@@ -16,7 +16,7 @@ public class Aplha_Exam {
 				System.out.println(Character.getNumericValue('A'));
 				//System.out.println(Integer.parseInt(';'));
 				for(int i = 0 ; i < sList.size(); i++) {
-					
+					//test
 					for(int j = 0 ; j < sList.get(i).length; j++) {
 						System.out.println(sList.get(i)[j]);
 						for(int k = 0; k < sList.get(i)[j].length(); k++) {
